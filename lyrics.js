@@ -18,7 +18,6 @@ function getRandomInt(min, max) {
     return Math.floor(Math.random() * (max - min) + min);
 }
 const scorelemento = document.getElementById('score');
-let pontos = 0;
 
 function updateScore(){
   
