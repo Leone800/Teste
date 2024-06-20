@@ -14,8 +14,3 @@ body{
   align-items: center;
   justify-content: center;
 }
-#score{
-  float: right;
-  font-size: 32px;
-  color: white;
-}
