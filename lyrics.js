@@ -9,7 +9,7 @@ palco.style.backgroundSize = 'cover';
 palco.style.backgroundPosition = '0.0';
 palco.style.border = 'none';
 
-const letters = 'あア いイ うウ えエ おオ かカ きキ くク けケ こコ さサ しシ すス せセ そソ たタ ちチ つツ てテ とト なナ にニ ぬヌ ねネ のノ はハ ひヒ ふフ へヘ ほホ まマ みミ むム めメ もモ やヤ ゆユ よヨ らラ りリ るル れレ ろロ わワ をヲ んン';
+const letters = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwyz';
 
 function getRandomInt(min, max) {
     return Math.floor(Math.random() * (max - min) + min);
