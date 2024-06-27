@@ -1,4 +1,4 @@
-{jogo de letras clicaveis}
+# jogo de letras clicaveis
 Esse jogo foi inspirado em uma tela que vi.
 
 Nesse jogo é possível clicar em um letra é ganhar uma pontuação.
